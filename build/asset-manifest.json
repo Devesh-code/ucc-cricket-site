@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ucc-cricket-site/static/css/main.31d6cfe0.css",
+    "main.js": "/ucc-cricket-site/static/js/main.bf01c45e.js",
+    "index.html": "/ucc-cricket-site/index.html",
+    "main.bf01c45e.js.map": "/ucc-cricket-site/static/js/main.bf01c45e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bf01c45e.js"
+  ]
+}
