@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ucc-cricket-site/static/css/main.31d6cfe0.css",
-    "main.js": "/ucc-cricket-site/static/js/main.e9361a29.js",
+    "main.js": "/ucc-cricket-site/static/js/main.8af10852.js",
     "index.html": "/ucc-cricket-site/index.html",
-    "main.e9361a29.js.map": "/ucc-cricket-site/static/js/main.e9361a29.js.map"
+    "main.8af10852.js.map": "/ucc-cricket-site/static/js/main.8af10852.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.e9361a29.js"
+    "static/js/main.8af10852.js"
   ]
 }
